@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/JuanMiranda1998/3-column-card-component)
-- Live Site URL: [Netlify](https://juanmiranda1998-3-column-card-component.netlify.app/)
+- Live Site URL: [Netlify](https://juanmiranda1998-3-column-component.netlify.app/)
 
 
 ### Built with
